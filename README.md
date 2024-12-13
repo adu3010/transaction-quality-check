@@ -1,4 +1,5 @@
-#transaction-quality-check
+# transaction-quality-check
+
 This is a take home task assigned by Anna Money as a part of their recruitment process.
 
 The task includes:
